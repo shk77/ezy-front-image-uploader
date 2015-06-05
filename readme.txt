@@ -4,8 +4,7 @@ Plugin Name: Ezy Front Image Uploader
 Plugin URI: http://www.wordpress.org/ezy-front-image-uploader
 Tags: 1.0.0
 Author URI: http://www.neil.com.np/
-Author: WPBeginner
-Donate link: http://www.wpbeginner.com/wpbeginner-needs-your-help/
+Author: neilGurung
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.0.0
@@ -18,7 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 What is Frontend Uploader?
 
 This plugin is a simplest way for upload & attached images to posts or pages of your site.
-The plugin uses a set of shortcodes to let you create highly customizable slider image & image upload options to your posts and pages.It’s that easy!
+The plugin uses a set of shortcodes to let you create highly customizable slider image & image upload options to your posts and pages.Itâ€™s that easy!
 
 
 5 Steps to using Frontend Uploader
@@ -34,7 +33,7 @@ Exploring Customizations
 You can modify the submission form as needed, and have users submit posts. Please visit the FAQ page for more information.
 This plugin can be applied to Posts, Pages, and Custom Post Types. You can enable this via Settings > Frontend Uploader Settings.
 In addition to the WordPress whitelisted file types, this also supports uploading of Microsoft Office and Adobe files, as well as various video and audio files. You can enable these file types via Settings > Frontend Uploader Settings.
-The plugin allows you to upload all filetypes that are whitelisted in WordPress. If you’d like to add more file types and are comfortable with theme development, there's a filter that'll allow you to add some exotic MIME-type.
+The plugin allows you to upload all filetypes that are whitelisted in WordPress. If youâ€™d like to add more file types and are comfortable with theme development, there's a filter that'll allow you to add some exotic MIME-type.
 You can also get recent attached id to posts or pages by using $ezyUpload->recentAttachIds as an array which you can used in any form.
 
 
